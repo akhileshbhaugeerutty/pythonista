@@ -5,7 +5,7 @@
 
 ### Notes & Instructions
 1. Les codes ont été répartis dans plusieurs fichiers. Il y a donc 2 dossiers:
-  * Le premier avec les codes du projet, un Notebook et le html associé.
+  * Le premier avec les codes du projet, un Notebook et le .html associé.
   * Ensuite, les données nécessaires afin de bien tourner les différents codes du Notebook
   * Le dernier fichier est le Rapport, fait avec PowerPoint. 
 
