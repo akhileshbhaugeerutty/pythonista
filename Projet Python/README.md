@@ -16,7 +16,7 @@ Cette ligne permettra de charger des données (la base crime.csv et une image (f
 
 ### Author
 
-* **Akhilesh Bhaugeerutty & Magib Seck ** - Université Paris-Dauphine, PSL
+* **Akhilesh Bhaugeerutty & Magib Seck** - Université Paris-Dauphine, PSL
 
 
 ### Acknowledgments
